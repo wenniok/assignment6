@@ -37,7 +37,7 @@ public class Main {
             return;
         }
 
-        // Step 3: Perform Binary Search
+        // Perform Binary Search
         System.out.print("Enter the number to search for in the sorted list: ");
         int target = scanner.nextInt();
 
